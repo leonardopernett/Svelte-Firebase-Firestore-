@@ -2,7 +2,6 @@
 
 # svelte - firestore
 
-
 ## Get started
 
 Install the dependencies...
