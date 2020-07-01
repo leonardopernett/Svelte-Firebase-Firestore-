@@ -1,6 +1,6 @@
 
 
-# svelte app
+# svelte - firestore
 
 
 ## Get started
